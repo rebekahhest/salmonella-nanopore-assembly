@@ -45,3 +45,24 @@ Variant calling will be performed on the sorted, indexed BAM alignments using bc
 ### Discussion
 
 ## References
+Danecek, P. (2025). bcftools. Github. https://github.com/samtools/bcftools<br>
+de Coster, W. (2025). NanoPlot. Github. https://github.com/wdecoster/NanoPlot<br>
+Delahaye, C., & Nicolas, J. (2021). Sequencing DNA with nanopores: Troubles and biases. _PLoS ONE_, _16_(10), e0257521. https://doi.org/10.1371/journal.pone.0257521<br>
+Harvey, W. T., Ebert, P., Elber, J., Audano, P. A., Munson, K. M., Hoekzema, K., Porubsky, D., Beck, C. R., Marschall, T., Garimella, K., & Eichler, E. E. Whole-genome long-read sequencing downsampling and its effect on variant-calling precision and recall. _Genome Research_, _33_(12), 2029-2040. https://doi.org/10.1101/gr.278070.123<br>
+Kolmogorov, M. (2025). Flye. Github. https://github.com/mikolmogorov/Flye<br>
+Lerminiaux, N., Fakharuddin, K., Mulvey, M. R., & Mataseje, L. (2024). Do we still need Illumina sequencing data? Evaluating Oxford Nanopore Technologies R10.4.1 flow cells and the Rapid v14 library prep kit for Gram negative bacteria whole genome assemblies. _Canadian Journal of Microbiology_, _70_(5). https://doi.org/10.1139/cjm-2023-0175<br>
+Li, H. (2018). Minimap2: pairwise alignment for nucleotide sequences. _Sequence analysis_, _34_(18), 3094-3100. https://doi.org/10.1093/bioinformatics/bty191<br>
+Li, H. (2025). minimap2. Github. https://github.com/lh3/minimap2<br>
+Li, H. (2025). samtools. Github. https://github.com/samtools/samtools<br>
+Lischer, H. E. L., & Shimizu, K. K. (2017). Reference-guided _de novo_ assembly approach improves genome reconstruction for related species. _BMC Bioinformatics_, _18_(474), 2017. https://doi.org/10.1186/s12859-017-1911-6<br>
+Marchant, A., Mougel, F., Mendoça, V., Quartier, M., Jacquin-Joly, E., da Rosa, J. A., Petit, E., & Harry, M. (2016). Comparing _de novo_ and reference-based transcriptome assembly strategies by applying them to the blood-sucking bug _Rhodnius prolixus_. Insect Biochemistry and Molecular Biology, _69_, 25-33. https://doi.org/10.1016/j.ibmb.2015.05.009<br>
+National Center for Biotechnology Information. (n.d.). __Salmonella enterica subsp. enterica serovar Typhimurium str. LT2_ genome assembly (Accession GCF_000006945.2) [Database record]. National Library of Medicine. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000006945.2/<br>
+Nattestad, M., & Schatz, M. C. (2016). Assemblytics: a web analytics tool for the detection of variants from an assembly. Bioinformatics, 32(19), 3021-3023. https://doi.org/10.1093/bioinformatics/btw369<br>
+Oxford Nanopore Technologies Ltd. (2018). medaka. Github. https://github.com/nanoporetech/medaka<br>
+Sanderson, N. D., Hopkins, K. M. V., Colpus, M., Parker, M., Lipworth, S., Crook, D., & Stoesser, N. (2024). Evaluation of the accuracy of bacterial genome reconstruction with Oxford Nanopore R10.4.1 long-read-only sequencing. _Microbial Genomics_, _10_(5). https://doi.org/10.1099/mgen.0.001246<br>
+ Santos, R., Lee., H., Williams, A., Baffour-Kyei, A., Lee, S-H., Troakes, C., Al-Chalabi, A., Breen, G., & Iacoangeli, A. (2025). Investigating the Performance of Oxford Nanopore Long-Read Sequencing with Respect to Illumina Microarrays and Short-Read Sequencing. _International Journal of Molecular Sciences_, _26_(10), 4492. https://doi.org/10.3390/ijms26104492<br>
+Sereika, M., Kirkegaard, R. H., Karst, S. M., Michaelsen, T. Y., Sørensen, E. A., Wollendberg, R. D., & Albertson, M. (2022). Oxford Nanopore R10.4 long-read sequencing enables the generation of near-finished bacterial genomes from pure cultures and metagenomes without short-read or reference polishing. _Nature Methods_, _19_, 823-826. https://doi.org/10.1038/s41592-022-01539-7<br>
+Thorvaldsdóttir, H., Robinson, J. T., & Mesirov, J. P. (2012). Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration. _Briefings in Bioinformatics_, _14_(2), 178-192. https://doi.org/10.1093/bib/bbs017<br>
+Vorderman, R. H. P. (2025). Sequali: efficient and comprehensive quality control of short- and long-read sequencing data. _Bioinformatics Advances_, _5_(1). https://doi.org/10.1093/bioadv/vbaf010<br>
+Wick, R. R., Judd, L. M., & Holt, K. E. (2023). Assembling the perfect bacterial genome using Oxford Nanopore and Illumina sequencing. _PLOS Computational Biology_, _19_(3), e1010905. https://doi.org/10.1371/journal.pcbi.1010905<br>
+Wick, R. R. (2025). Filtlong. Github. https://github.com/rrwick/Filtlong<br>
