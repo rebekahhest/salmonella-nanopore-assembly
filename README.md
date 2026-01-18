@@ -30,7 +30,7 @@ A draft _de novo_ genome assembly will be produced using Flye (v2.9.6) with `–
 
 #### Reference Genome Retrieval and Alignment
 
-A high-quality, curated reference genome for _S. enterica_ will be downloaded from NCBI RefSeq (accession: ASM694v2). Reads will be aligned using Minimap2 (v2.3) with `–ax map-ont` where the alignments will be converted to BAM files, then sorted and indexed using Samtools (v1.23) to enable efficient variant calling and visualization (Li, 2018; Li, 2025).
+A high-quality, curated reference genome for _S. enterica_ will be downloaded from NCBI RefSeq (NCBI, n.d.; accession GCF_000006945.2). Reads will be aligned using Minimap2 (v2.3) with `–ax map-ont` where the alignments will be converted to BAM files, then sorted and indexed using Samtools (v1.23) to enable efficient variant calling and visualization (Li, 2018; Li, 2025).
 
 #### Variant Calling, Visualization and Quality Assessment
 
