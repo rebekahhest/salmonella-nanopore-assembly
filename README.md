@@ -18,7 +18,7 @@ Alignment of an assembled genome to a reference provides a complementary approac
 <br><br>
 The goal of this project is to assemble a consensus genome of _Salmonella enterica_, a clinically significant pathogen with a well-characterized genome and high-quality reference sequences (Laing et al., 2017). Raw ONT R10 long reads will be assembled and polished, then aligned to a reference genome obtained from NCBI for variant calling and visualization to evaluate assembly accuracy and limitations of a long-read-only, reference-based approach.
 
-### Proposed Methods
+### Methods
 
 #### Read Quality Control and Filtering
 
