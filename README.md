@@ -40,6 +40,12 @@ Variant calling will be performed on the sorted, indexed BAM alignments using bc
 
 ### Results
 
+De novo genome assembly of the filtered ONT reads using Flye generated 3 contigs with lengths of 3,318,776 bp, 1,676,988 bp, and 109,059 bp with a total assembly length of 5,104,823 bp. The contig N50 was 3,318,776 bp, and mean coverage was 139×. A bar plot of contig lengths is shown in Figure 1.
+<br><br>
+Of the 164,525 total raw reads, 155,622 (94.6%) were mapped to the S. enterica reference genome ASM694v2 with 148,576 primary alignments. Secondary and supplementary alignments accounted for 4,520 and 2,526 reads, respectively. Mean coverage of raw reads was calculated in 10kb bins and varied across the chromosome, with higher coverage observed toward the beginning and end of the genome and lower, more stable coverage across the central region (Figure 2). Localized fluctuations were present but overall depth remain consistently high across the full length of the genome. 
+<br><br>
+Variant calling identified a total of 12,206 variants, including 12,151 single-nucleotide polymorphisms (SNPs) and 119 insertions/deletions (indels). Representative SNPs were visualized in IGV to facilitate variant validation and assess alignment quality (Figure 3).
+
 ### Discussion
 
 ## References
